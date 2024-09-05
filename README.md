@@ -1,1 +1,2 @@
 # Audio-Manipulation
+The audio/voice of 2 speech signals were swapped using the concepts Digital Signal Processing(DSP). We first recorded 2 voices, lets take an example, a guy telling a particular phrase and a girl telling some other phrase. Using MATLAB we analyzed these voice signals in frequency domain and swapped the frequency domain characteristics of the 2 signals. After swapping, the phrase which was initially said by the girl will be in the guy's voice and the phrase said by the guy will be in the girl's voice.
